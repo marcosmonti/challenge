@@ -102,4 +102,5 @@ ENV/
 
 .idea/
 
-.sqlite3
+db.sqlite3
+challenge/static
