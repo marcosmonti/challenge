@@ -11,3 +11,5 @@ DATABASES = {
         'CONN_MAX_AGE': 60
     }
 }
+
+ALLOWED_HOSTS = ['scratch-challenge.herokuapp.com']
