@@ -104,3 +104,4 @@ ENV/
 
 db.sqlite3
 challenge/static
+challenge/settings/active.py
